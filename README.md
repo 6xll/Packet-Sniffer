@@ -1,6 +1,6 @@
 # Packet Sniffer Dev
 
-Sniffer de pacotes com interface gráfica em Python (Tkinter + Scapy). Exibe apenas as interfaces de rede ativas ("up") no sistema Linux, tornando a captura de pacotes mais precisa e segura
+Sniffer de pacotes com interface gráfica em Python (Tkinter + Scapy). Exibe apenas as interfaces de rede ativas ("up") no sistema Linux, tornando a captura de pacotes mais precisa e segura.
 
 ### Funcionalidades
 
