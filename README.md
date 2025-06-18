@@ -15,7 +15,7 @@ Sniffer de pacotes com interface gráfica em Python (Tkinter + Scapy). Exibe ape
 
 ### Clone o repositório:
 ```
-git clone https://github.com/FabianoAlmeida0075/packet-sniffer.git
+git clone https://github.com/6xll/packet-sniffer.git
 cd packet-sniffer
 ```
 ### Instale as dependências Python:
